@@ -30,6 +30,7 @@ All the float values are normalized and bounded within [-1,1].
 
 Here is a description of all the columns:
 
+```
 activity
     text
 	one of the names of activity:
@@ -194,3 +195,4 @@ fBodyBodyGyroJerkMag.std
 fBodyBodyGyroJerkMag.meanFreq
     float
 	Weighted average of the frequency components of fBodyBodyGyroJerkMag
+```
